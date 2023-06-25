@@ -4,7 +4,6 @@
 
 #### Proyectos cargados por integrantes del grupo donde puede verse la evolucion de los mismos:
 
-+ **Dupetit Santiago** - [> Enlace a la simulacion en Wokwi <](https://wokwi.com/projects/368332141636562945 "Título del enlace" target="_blank")
-+ **Orsili Jose Augusto** - [> Enlace a la simulacion en Wokwi <](https://wokwi.com/projects/368474396089748481 "Título del enlace" target="_blank")
++ **Dupetit Santiago** - [> Enlace a la simulacion en Wokwi <](https://wokwi.com/projects/368332141636562945)
++ **Orsili Jose Augusto** - [> Enlace a la simulacion en Wokwi <](https://wokwi.com/projects/368474396089748481)
 + 
-[Abrir en nueva pestaña](https://www.google.com "Título del enlace" target="_blank")
